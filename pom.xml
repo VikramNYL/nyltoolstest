@@ -4,6 +4,6 @@
   <groupId>com.nyl.intranet</groupId>
   <artifactId>Intranet</artifactId>
   <version>1.0</version>
-  <name>Parent POM</name>
-  <packaging>E:\WS\workspace\toolstest2\pom.xml</packaging>
+  <name>jar</name>
+  <packaging>jar</packaging>
 </project>
