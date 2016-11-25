@@ -5,5 +5,5 @@
   <artifactId>Intranet</artifactId>
   <version>1.0</version>
   <name>Parent POM</name>
-  <packaging></packaging>
+  <packaging>workspace</packaging>
 </project>
