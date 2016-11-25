@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
-
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.nyl.intranet</groupId>
+  <artifactId>Intranet</artifactId>
+  <version>1.0</version>
+  <name>Parent POM</name>
+  <packaging>pom</packaging>
 </project>
